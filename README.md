@@ -1,2 +1,21 @@
-# Movie-Management-System
-Movie and TV Show Management System in C using file handling. Supports storing user data, movies, TV shows, and cast information through text files.
+# Movie Management System in C
+
+This is a C program that manages movies, TV shows, users and cast information using file handling.
+
+## Features
+- Add movies and TV shows
+- Store and view user details
+- File handling using text files
+
+## How to run
+1. Compile:
+   gcc main.c -o main
+2. Run:
+   ./main
+
+## Files used
+- Movies.txt
+- tv_shows.txt
+- users.txt
+- cast_info.txt
+
