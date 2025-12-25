@@ -1,0 +1,952 @@
+------------ Cast Details ------------
+Cast Name: Shah Rukh Khan
+No. TV Shows : 0
+TV Shows:
+No. Movies : 2
+Movies:
+  - Jawaan
+  - Pathaan
+No. Awards : 2
+Awards:
+  - Best Actor  (2023)
+  - Best Action Film  (2023)
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Nayanthara
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - Jawaan
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Vijay Sethupathi
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - Jawaan
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Deepika Padukone
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - Pathaan
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: John Abraham
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - Pathaan
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Ram Charan
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - RRR
+No. Awards : 1
+Awards:
+  - Best Actor Duo  (2023)
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Jr NTR
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - RRR
+No. Awards : 1
+Awards:
+  - Best Actor Duo  (2023)
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Alia Bhatt
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - RRR
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Aamir Khan
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - 3 Idiots
+No. Awards : 1
+Awards:
+  - Best Actor  (2010)
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Kareena Kapoor
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - 3 Idiots
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: R. Madhavan
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - 3 Idiots
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Sharman Joshi
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - 3 Idiots
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Prabhas
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - Bahubali: The Beginning
+No. Awards : 1
+Awards:
+  - Best Actor  (2016)
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Rana Daggubati
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - Bahubali: The Beginning
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Anushka Shetty
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - Bahubali: The Beginning
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Tamannaah
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - Bahubali: The Beginning
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Cillian Murphy
+No. TV Shows : 1
+TV Shows:
+  - Peaky Blinders
+No. Movies : 1
+Movies:
+  - Oppenheimer
+No. Awards : 1
+Awards:
+  - Best Actor  (2024)
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Robert Downey Jr.
+No. TV Shows : 0
+TV Shows:
+No. Movies : 2
+Movies:
+  - Oppenheimer
+  - Avengers: Endgame
+No. Awards : 2
+Awards:
+  - Best Hero  (2020)
+  - Best Supporting Actor  (2024)
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Emily Blunt
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - Oppenheimer
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Matt Damon
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - Oppenheimer
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Margot Robbie
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - Barbie
+No. Awards : 1
+Awards:
+  - Best Actress  (2024)
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Ryan Gosling
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - Barbie
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Timothee Chalamet
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - Dune: Part Two
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Zendaya
+No. TV Shows : 1
+TV Shows:
+  - Euphoria
+No. Movies : 1
+Movies:
+  - Dune: Part Two
+No. Awards : 1
+Awards:
+  - Best Supporting Actress  (2024)
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Robert Downey Jr.
+No. TV Shows : 0
+TV Shows:
+No. Movies : 2
+Movies:
+  - Avengers: Endgame
+  - Oppenheimer
+No. Awards : 2
+Awards:
+  - Best Hero  (2020)
+  - Best Supporting Actor  (2024)
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Leonardo DiCaprio
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - Inception
+No. Awards : 1
+Awards:
+  - Best Actor  (2011)
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Tom Hardy
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - Inception
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Scarlett Johansson
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - Avengers: Endgame
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Chris Evans
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - Avengers: Endgame
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Chris Hemsworth
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - Avengers: Endgame
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Millie Bobby Brown
+No. TV Shows : 1
+TV Shows:
+  - Stranger Things
+No. Movies : 0
+Movies:
+No. Awards : 1
+Awards:
+  - Best Drama Series  (2018)
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Finn Wolfhard
+No. TV Shows : 1
+TV Shows:
+  - Stranger Things
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Winona Ryder
+No. TV Shows : 1
+TV Shows:
+  - Stranger Things
+No. Movies : 0
+Movies:
+No. Awards : 1
+Awards:
+  - Best Ensemble Cast  (2019)
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: David Harbour
+No. TV Shows : 1
+TV Shows:
+  - Stranger Things
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Gaten Matarazzo
+No. TV Shows : 1
+TV Shows:
+  - Stranger Things
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Bryan Cranston
+No. TV Shows : 1
+TV Shows:
+  - Breaking Bad
+No. Movies : 0
+Movies:
+No. Awards : 1
+Awards:
+  - Best Drama Series  (2014)
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Aaron Paul
+No. TV Shows : 1
+TV Shows:
+  - Breaking Bad
+No. Movies : 0
+Movies:
+No. Awards : 1
+Awards:
+  - Best Supporting Actor  (2014)
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Anna Gunn
+No. TV Shows : 1
+TV Shows:
+  - Breaking Bad
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Bob Odenkirk
+No. TV Shows : 1
+TV Shows:
+  - Breaking Bad
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Giancarlo Esposito
+No. TV Shows : 1
+TV Shows:
+  - Breaking Bad
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Emilia Clarke
+No. TV Shows : 1
+TV Shows:
+  - Game of Thrones
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Kit Harington
+No. TV Shows : 1
+TV Shows:
+  - Game of Thrones
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Peter Dinklage
+No. TV Shows : 1
+TV Shows:
+  - Game of Thrones
+No. Movies : 0
+Movies:
+No. Awards : 1
+Awards:
+  - Best Drama Series  (2015)
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Lena Headey
+No. TV Shows : 1
+TV Shows:
+  - Game of Thrones
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Sophie Turner
+No. TV Shows : 1
+TV Shows:
+  - Game of Thrones
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Álvaro Morte
+No. TV Shows : 1
+TV Shows:
+  - Money Heist
+No. Movies : 0
+Movies:
+No. Awards : 1
+Awards:
+  - Best International Series  (2019)
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Úrsula Corberó
+No. TV Shows : 1
+TV Shows:
+  - Money Heist
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Pedro Alonso
+No. TV Shows : 1
+TV Shows:
+  - Money Heist
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Itziar Ituño
+No. TV Shows : 1
+TV Shows:
+  - Money Heist
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Miguel Herrán
+No. TV Shows : 1
+TV Shows:
+  - Money Heist
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Henry Cavill
+No. TV Shows : 1
+TV Shows:
+  - The Witcher
+No. Movies : 1
+Movies:
+  - Dune: Part Two
+No. Awards : 1
+Awards:
+  - Best Fantasy Series  (2021)
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Anya Chalotra
+No. TV Shows : 1
+TV Shows:
+  - The Witcher
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Freya Allan
+No. TV Shows : 1
+TV Shows:
+  - The Witcher
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Joey Batey
+No. TV Shows : 1
+TV Shows:
+  - The Witcher
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Saif Ali Khan
+No. TV Shows : 1
+TV Shows:
+  - Sacred Games
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Nawazuddin Siddiqui
+No. TV Shows : 1
+TV Shows:
+  - Sacred Games
+No. Movies : 0
+Movies:
+No. Awards : 1
+Awards:
+  - Best Indian Web Series  (2019)
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Radhika Apte
+No. TV Shows : 1
+TV Shows:
+  - Sacred Games
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Pankaj Tripathi
+No. TV Shows : 2
+TV Shows:
+  - Sacred Games
+  - Mirzapur
+No. Movies : 0
+Movies:
+No. Awards : 1
+Awards:
+  - Best Actor in Web Series  (2020)
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Ali Fazal
+No. TV Shows : 1
+TV Shows:
+  - Mirzapur
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Divyenndu
+No. TV Shows : 1
+TV Shows:
+  - Mirzapur
+No. Movies : 0
+Movies:
+No. Awards : 1
+Awards:
+  - Best Supporting Actor  (2020)
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Shweta Tripathi
+No. TV Shows : 1
+TV Shows:
+  - Mirzapur
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Rasika Dugal
+No. TV Shows : 1
+TV Shows:
+  - Mirzapur
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Cillian Murphy
+No. TV Shows : 1
+TV Shows:
+  - Peaky Blinders
+No. Movies : 1
+Movies:
+  - Oppenheimer
+No. Awards : 1
+Awards:
+  - Best Actor  (2020)
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Paul Anderson
+No. TV Shows : 1
+TV Shows:
+  - Peaky Blinders
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Helen McCrory
+No. TV Shows : 1
+TV Shows:
+  - Peaky Blinders
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Tom Hardy
+No. TV Shows : 1
+TV Shows:
+  - Peaky Blinders
+No. Movies : 1
+Movies:
+  - Inception
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Anya Taylor-Joy
+No. TV Shows : 1
+TV Shows:
+  - Peaky Blinders
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Manoj Bajpayee
+No. TV Shows : 1
+TV Shows:
+  - The Family Man
+No. Movies : 0
+Movies:
+No. Awards : 1
+Awards:
+  - Best Actor  (2021)
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Priyamani
+No. TV Shows : 1
+TV Shows:
+  - The Family Man
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Samantha Ruth Prabhu
+No. TV Shows : 1
+TV Shows:
+  - The Family Man
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Sharib Hashmi
+No. TV Shows : 1
+TV Shows:
+  - The Family Man
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Tom Hiddleston
+No. TV Shows : 1
+TV Shows:
+  - Loki
+No. Movies : 0
+Movies:
+No. Awards : 1
+Awards:
+  - Best Performance  (2022)
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Owen Wilson
+No. TV Shows : 1
+TV Shows:
+  - Loki
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Sophia Di Martino
+No. TV Shows : 1
+TV Shows:
+  - Loki
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Gugu Mbatha-Raw
+No. TV Shows : 1
+TV Shows:
+  - Loki
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Karl Urban
+No. TV Shows : 1
+TV Shows:
+  - The Boys
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Antony Starr
+No. TV Shows : 1
+TV Shows:
+  - The Boys
+No. Movies : 0
+Movies:
+No. Awards : 1
+Awards:
+  - Best Villain  (2021)
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Jack Quaid
+No. TV Shows : 1
+TV Shows:
+  - The Boys
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Erin Moriarty
+No. TV Shows : 1
+TV Shows:
+  - The Boys
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Jensen Ackles
+No. TV Shows : 1
+TV Shows:
+  - The Boys
+No. Movies : 0
+Movies:
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Salman Khan
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - Sultan
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Akbar 
+No. TV Shows : 0
+TV Shows:
+No. Movies : 1
+Movies:
+  - Sultan
+No. Awards : 0
+Awards:
+--------------------------------------
+
+------------ Cast Details ------------
+Cast Name: Abc
+No. TV Shows : 1
+TV Shows:
+  - xyz
+No. Movies : 1
+Movies:
+  - kgf 
+No. Awards : 1
+Awards:
+  - best actor (2018)
+--------------------------------------
+

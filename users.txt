@@ -1,0 +1,219 @@
+---------- USER DETAILS ----------
+User ID: 32423
+Name: sumedh
+Registration Date: 10-11-2025
+
+SUBSCRIPTION DETAILS
+Plan: silver
+Start Date: 10-11-2025
+End Date: 10-11-2026
+Amount: ₹199.00
+
+PREFERENCES
+sci fi
+
+VIEWING HISTORY
+Inception
+Oppenheimer
+
+ACTIVE SUBSCRIPTIONS
+Stranger Things
+-------------------------------------
+
+---------- USER DETAILS ----------
+User ID: 32424
+Name: aarav
+Registration Date: 11-11-2025
+
+SUBSCRIPTION DETAILS
+Plan: gold
+Start Date: 11-11-2025
+End Date: 11-11-2026
+Amount: ₹499.00
+
+PREFERENCES
+drama thriller
+
+VIEWING HISTORY
+Breaking Bad
+3 Idiots
+
+ACTIVE SUBSCRIPTIONS
+Breaking Bad
+Money Heist
+-------------------------------------
+
+---------- USER DETAILS ----------
+User ID: 32425
+Name: mira
+Registration Date: 11-11-2025
+
+SUBSCRIPTION DETAILS
+Plan: platinum
+Start Date: 11-11-2025
+End Date: 11-11-2026
+Amount: ₹999.00
+
+PREFERENCES
+fantasy action
+
+VIEWING HISTORY
+Avengers: Endgame
+Bahubali: The Beginning
+
+ACTIVE SUBSCRIPTIONS
+The Witcher
+Game of Thrones
+-------------------------------------
+
+---------- USER DETAILS ----------
+User ID: 32426
+Name: rahul
+Registration Date: 12-11-2025
+
+SUBSCRIPTION DETAILS
+Plan: silver
+Start Date: 12-11-2025
+End Date: 12-11-2026
+Amount: ₹199.00
+
+PREFERENCES
+crime action
+
+VIEWING HISTORY
+Mirzapur
+RRR
+
+ACTIVE SUBSCRIPTIONS
+Mirzapur
+Sacred Games
+-------------------------------------
+
+---------- USER DETAILS ----------
+User ID: 32427
+Name: ananya
+Registration Date: 12-11-2025
+
+SUBSCRIPTION DETAILS
+Plan: gold
+Start Date: 12-11-2025
+End Date: 12-11-2026
+Amount: ₹499.00
+
+PREFERENCES
+action fantasy
+
+VIEWING HISTORY
+Avengers: Endgame
+Dune: Part Two
+
+ACTIVE SUBSCRIPTIONS
+Loki
+The Boys
+-------------------------------------
+
+---------- USER DETAILS ----------
+User ID: 32428
+Name: rohan
+Registration Date: 12-11-2025
+
+SUBSCRIPTION DETAILS
+Plan: silver
+Start Date: 12-11-2025
+End Date: 12-11-2026
+Amount: ₹199.00
+
+PREFERENCES
+action adventure
+
+VIEWING HISTORY
+Pathaan
+Jawan
+
+ACTIVE SUBSCRIPTIONS
+The Family Man
+Peaky Blinders
+-------------------------------------
+---------- USER DETAILS ----------
+User ID: 32201
+Name: ali
+Registration Date: 11-11-2025
+
+SUBSCRIPTION DETAILS
+Plan: silver
+Start Date: 11-11-2025
+End Date: 11-11-2026
+Amount: ₹199.00
+
+PREFERENCES
+(None)
+
+VIEWING HISTORY
+(No shows or movies matched preferences)
+
+ACTIVE SUBSCRIPTIONS
+(None)
+
+FOLLOWING
+(None)
+-------------------------------------
+
+---------- USER DETAILS ----------
+User ID: 32201
+Name: ali
+Registration Date: 11-11-2025
+
+SUBSCRIPTION DETAILS
+Plan: silver
+Start Date: 11-11-2025
+End Date: 11-11-2026
+Amount: ₹199.00
+
+PREFERENCES
+(None)
+
+VIEWING HISTORY
+(No shows or movies matched preferences)
+
+ACTIVE SUBSCRIPTIONS
+(None)
+
+FOLLOWING
+(None)
+-------------------------------------
+
+---------- USER DETAILS ----------
+User ID: 32201
+Name: ali
+Registration Date: 11-11-2025
+
+SUBSCRIPTION DETAILS
+Plan: silver
+Start Date: 11-11-2025
+End Date: 11-11-2026
+Amount: ₹199.00
+
+PREFERENCES
+sci-fi
+drama
+thriller
+
+VIEWING HISTORY
+Stranger Things | TV | Hours Watched: 0.0
+Breaking Bad | TV | Hours Watched: 0.0
+Game of Thrones | TV | Hours Watched: 0.0
+Money Heist | TV | Hours Watched: 0.0
+Sacred Games | TV | Hours Watched: 0.0
+Mirzapur | TV | Hours Watched: 0.0
+Peaky Blinders | TV | Hours Watched: 0.0
+The Family Man | TV | Hours Watched: 0.0
+Loki | TV | Hours Watched: 0.0
+The Boys | TV | Hours Watched: 0.0
+
+ACTIVE SUBSCRIPTIONS
+Stranger Things
+
+FOLLOWING
+(None)
+-------------------------------------
+

@@ -1,0 +1,219 @@
+---------- TV SHOW DETAILS ----------
+Name: Stranger Things
+Genres: Drama Sci-Fi Thriller
+Seasons: 4
+  Season 1: 8 episodes
+  Season 2: 9 episodes
+  Season 3: 8 episodes
+  Season 4: 9 episodes
+First Telecast Date: 15-07-2016
+Original Release Date: 15-07-2016
+Telecast Days: Friday Saturday 
+Cast: Millie Bobby Brown Finn Wolfhard Winona Ryder David Harbour Gaten Matarazzo 
+Producers: The Duffer Brothers Shawn Levy 
+Writer: The Duffer Brothers
+Production Company: 21 Laps Entertainment
+Awards:
+  Best Drama Series (2018) - Millie Bobby Brown
+  Best Ensemble Cast (2019) - Winona Ryder
+-------------------------------------
+
+---------- TV SHOW DETAILS ----------
+Name: Breaking Bad
+Genres: Crime Drama Thriller
+Seasons: 5
+  Season 1: 7 episodes
+  Season 2: 13 episodes
+  Season 3: 13 episodes
+  Season 4: 13 episodes
+  Season 5: 16 episodes
+First Telecast Date: 20-01-2008
+Original Release Date: 20-01-2008
+Telecast Days: Sunday 
+Cast: Bryan Cranston Aaron Paul Anna Gunn Bob Odenkirk Giancarlo Esposito 
+Producers: Vince Gilligan Melissa Bernstein 
+Writer: Vince Gilligan
+Production Company: High Bridge Entertainment
+Awards:
+  Best Drama Series (2014) - Bryan Cranston
+  Best Supporting Actor (2014) - Aaron Paul
+-------------------------------------
+
+---------- TV SHOW DETAILS ----------
+Name: Game of Thrones
+Genres: Action Fantasy Drama
+Seasons: 8
+  Season 1: 10 episodes
+  Season 2: 10 episodes
+  Season 3: 10 episodes
+  Season 4: 10 episodes
+  Season 5: 10 episodes
+  Season 6: 10 episodes
+  Season 7: 7 episodes
+  Season 8: 6 episodes
+First Telecast Date: 17-04-2011
+Original Release Date: 17-04-2011
+Telecast Days: Monday 
+Cast: Emilia Clarke Kit Harington Peter Dinklage Lena Headey Sophie Turner 
+Producers: David Benioff D. B. Weiss 
+Writer: George R. R. Martin
+Production Company: HBO Entertainment
+Awards:
+  Best Drama Series (2015) - Peter Dinklage
+  Best Visual Effects (2017) - HBO Production Team
+-------------------------------------
+
+---------- TV SHOW DETAILS ----------
+Name: Money Heist
+Genres: Crime Drama Action
+Seasons: 5
+  Season 1: 13 episodes
+  Season 2: 9 episodes
+  Season 3: 8 episodes
+  Season 4: 8 episodes
+  Season 5: 10 episodes
+First Telecast Date: 02-05-2017
+Original Release Date: 02-05-2017
+Telecast Days: Friday 
+Cast: Álvaro Morte Úrsula Corberó Pedro Alonso Itziar Ituño Miguel Herrán 
+Producers: Álex Pina Sonia Martínez 
+Writer: Álex Pina
+Production Company: Vancouver Media
+Awards:
+  Best International Series (2019) - Álvaro Morte
+  Best Ensemble Cast (2020) - Full Cast
+-------------------------------------
+
+---------- TV SHOW DETAILS ----------
+Name: The Witcher
+Genres: Fantasy Action Adventure
+Seasons: 3
+  Season 1: 8 episodes
+  Season 2: 8 episodes
+  Season 3: 8 episodes
+First Telecast Date: 20-12-2019
+Original Release Date: 20-12-2019
+Telecast Days: Friday 
+Cast: Henry Cavill Anya Chalotra Freya Allan Joey Batey 
+Producers: Lauren Schmidt Hissrich Tomek Baginski 
+Writer: Lauren Schmidt Hissrich
+Production Company: Netflix Studios
+Awards:
+  Best Fantasy Series (2021) - Henry Cavill
+  Best Visual Effects (2021) - Netflix Team
+-------------------------------------
+
+---------- TV SHOW DETAILS ----------
+Name: Sacred Games
+Genres: Crime Thriller Drama
+Seasons: 2
+  Season 1: 8 episodes
+  Season 2: 8 episodes
+First Telecast Date: 06-07-2018
+Original Release Date: 06-07-2018
+Telecast Days: Friday 
+Cast: Saif Ali Khan Nawazuddin Siddiqui Radhika Apte Pankaj Tripathi 
+Producers: Vikramaditya Motwane Anurag Kashyap 
+Writer: Varun Grover
+Production Company: Phantom Films
+Awards:
+  Best Indian Web Series (2019) - Nawazuddin Siddiqui
+  Best Direction (2019) - Anurag Kashyap
+-------------------------------------
+
+---------- TV SHOW DETAILS ----------
+Name: Mirzapur
+Genres: Action Crime Drama
+Seasons: 3
+  Season 1: 9 episodes
+  Season 2: 10 episodes
+  Season 3: 10 episodes
+First Telecast Date: 16-11-2018
+Original Release Date: 16-11-2018
+Telecast Days: Friday 
+Cast: Pankaj Tripathi Ali Fazal Divyenndu Shweta Tripathi Rasika Dugal 
+Producers: Ritesh Sidhwani Farhan Akhtar 
+Writer: Puneet Krishna
+Production Company: Excel Entertainment
+Awards:
+  Best Actor in Web Series (2020) - Pankaj Tripathi
+  Best Supporting Actor (2020) - Divyenndu
+-------------------------------------
+
+---------- TV SHOW DETAILS ----------
+Name: Peaky Blinders
+Genres: Drama Crime Historical
+Seasons: 6
+  Season 1: 6 episodes
+  Season 2: 6 episodes
+  Season 3: 6 episodes
+  Season 4: 6 episodes
+  Season 5: 6 episodes
+  Season 6: 6 episodes
+First Telecast Date: 12-09-2013
+Original Release Date: 12-09-2013
+Telecast Days: Thursday 
+Cast: Cillian Murphy Paul Anderson Helen McCrory Tom Hardy Anya Taylor-Joy 
+Producers: Caryn Mandabach Steven Knight 
+Writer: Steven Knight
+Production Company: Caryn Mandabach Productions
+Awards:
+  Best Actor (2020) - Cillian Murphy
+  Best British Drama (2018) - BBC Team
+-------------------------------------
+
+---------- TV SHOW DETAILS ----------
+Name: The Family Man
+Genres: Action Drama Thriller
+Seasons: 2
+  Season 1: 10 episodes
+  Season 2: 9 episodes
+First Telecast Date: 20-09-2019
+Original Release Date: 20-09-2019
+Telecast Days: Friday 
+Cast: Manoj Bajpayee Priyamani Samantha Ruth Prabhu Sharib Hashmi 
+Producers: Raj Nidimoru Krishna D.K. 
+Writer: Raj Nidimoru
+Production Company: D2R Films
+Awards:
+  Best Actor (2021) - Manoj Bajpayee
+  Best Web Series (2021) - Raj & DK
+-------------------------------------
+
+---------- TV SHOW DETAILS ----------
+Name: Loki
+Genres: Action Adventure Sci-Fi
+Seasons: 2
+  Season 1: 6 episodes
+  Season 2: 6 episodes
+First Telecast Date: 09-06-2021
+Original Release Date: 09-06-2021
+Telecast Days: Wednesday 
+Cast: Tom Hiddleston Owen Wilson Sophia Di Martino Gugu Mbatha-Raw 
+Producers: Kevin Feige Kate Herron 
+Writer: Michael Waldron
+Production Company: Marvel Studios
+Awards:
+  Best Performance (2022) - Tom Hiddleston
+  Best Visual Effects (2022) - Marvel VFX Team
+-------------------------------------
+
+---------- TV SHOW DETAILS ----------
+Name: The Boys
+Genres: Action Comedy Drama
+Seasons: 4
+  Season 1: 8 episodes
+  Season 2: 8 episodes
+  Season 3: 8 episodes
+  Season 4: 8 episodes
+First Telecast Date: 26-07-2019
+Original Release Date: 26-07-2019
+Telecast Days: Friday 
+Cast: Karl Urban Antony Starr Jack Quaid Erin Moriarty Jensen Ackles 
+Producers: Eric Kripke Seth Rogen 
+Writer: Eric Kripke
+Production Company: Amazon Studios
+Awards:
+  Best Villain (2021) - Antony Starr
+  Best Ensemble Cast (2022) - Full Cast
+-------------------------------------

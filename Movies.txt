@@ -1,0 +1,179 @@
+---------- MOVIE DETAILS ----------
+Name: Jawaan
+Release Date: 07-09-2023
+Cast: Shah Rukh Khan, Nayanthara, Vijay Sethupathi, 
+Producer: Gauri Khan
+Writer: Atlee
+Soundtracks:
+  Chaleya
+  Zinda Banda
+  Not Ramaiya Vastavaiya
+Production Company: Red Chillies Entertainment
+Budget (in crores): 300
+World-wide Collection (in crores): 1150
+Awards:
+  Best Action Film (2023) - Atlee
+  Best Actor (2023) - Shah Rukh Khan
+-------------------------------------
+
+---------- MOVIE DETAILS ----------
+Name: Pathaan
+Release Date: 25-01-2023
+Cast: Shah Rukh Khan, Deepika Padukone, John Abraham, 
+Producer: Aditya Chopra
+Writer: Shridhar Raghavan
+Soundtracks:
+  Jhoome Jo Pathaan
+  Besharam Rang
+Production Company: Yash Raj Films
+Budget (in crores): 250
+World-wide Collection (in crores): 1050
+Awards:
+  Best Visual Effects (2023) - Red Chillies VFX
+  Best Song (2023) - Vishal–Shekhar
+  Best Actor (2023) - Shah Rukh Khan
+-------------------------------------
+
+---------- MOVIE DETAILS ----------
+Name: RRR
+Release Date: 24-03-2022
+Cast: Ram Charan, Jr NTR, Alia Bhatt, Ajay Devgn, 
+Producer: D. V. V. Danayya
+Writer: V. Vijayendra Prasad
+Soundtracks:
+  Naatu Naatu
+  Komuram Bheemudo
+Production Company: DVV Entertainment
+Budget (in crores): 550
+World-wide Collection (in crores): 1200
+Awards:
+  Best Original Song (2023) - M. M. Keeravani
+  Best Director (2023) - S. S. Rajamouli
+  Best Actor Duo (2023) - Ram Charan & Jr NTR
+-------------------------------------
+
+---------- MOVIE DETAILS ----------
+Name: 3 Idiots
+Release Date: 25-12-2009
+Cast: Aamir Khan, Kareena Kapoor, R. Madhavan, Sharman Joshi, 
+Producer: Vidhu Vinod Chopra
+Writer: Rajkumar Hirani
+Soundtracks:
+  All Izz Well
+  Give Me Some Sunshine
+Production Company: Vinod Chopra Films
+Budget (in crores): 55
+World-wide Collection (in crores): 460
+Awards:
+  Best Film (2010) - Rajkumar Hirani
+  Best Director (2010) - Rajkumar Hirani
+  Best Actor (2010) - Aamir Khan
+-------------------------------------
+
+---------- MOVIE DETAILS ----------
+Name: Bahubali: The Beginning
+Release Date: 10-07-2015
+Cast: Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah, 
+Producer: Shobu Yarlagadda
+Writer: K. V. Vijayendra Prasad
+Soundtracks:
+  Jeevanadi
+  Mamathala Thalli
+Production Company: Arka Media Works
+Budget (in crores): 180
+World-wide Collection (in crores): 650
+Awards:
+  Best Feature Film (2016) - S. S. Rajamouli
+  Best Visual Effects (2016) - Srinivas Mohan
+  Best Actor (2016) - Prabhas
+-------------------------------------
+
+---------- MOVIE DETAILS ----------
+Name: Oppenheimer
+Release Date: 21-07-2023
+Cast: Cillian Murphy, Robert Downey Jr., Emily Blunt, Matt Damon, 
+Producer: Emma Thomas
+Writer: Christopher Nolan
+Soundtracks:
+  Trinity
+  Can You Hear The Music
+Production Company: Universal Pictures
+Budget (in crores): 800
+World-wide Collection (in crores): 1300
+Awards:
+  Best Picture (2024) - Christopher Nolan
+  Best Director (2024) - Christopher Nolan
+  Best Actor (2024) - Cillian Murphy
+-------------------------------------
+
+---------- MOVIE DETAILS ----------
+Name: Barbie
+Release Date: 21-07-2023
+Cast: Margot Robbie, Ryan Gosling, America Ferrera, 
+Producer: David Heyman
+Writer: Greta Gerwig
+Soundtracks:
+  Dance The Night
+  What Was I Made For
+Production Company: Warner Bros Pictures
+Budget (in crores): 600
+World-wide Collection (in crores): 1400
+Awards:
+  Best Costume Design (2024) - Jacqueline Durran
+  Best Song (2024) - Billie Eilish
+  Best Actress (2024) - Margot Robbie
+-------------------------------------
+
+---------- MOVIE DETAILS ----------
+Name: Dune: Part Two
+Release Date: 01-03-2024
+Cast: Timothee Chalamet, Zendaya, Austin Butler, Florence Pugh, 
+Producer: Mary Parent
+Writer: Denis Villeneuve
+Soundtracks:
+  Eclipse
+  A Time of Quiet Between the Storms
+Production Company: Legendary Pictures
+Budget (in crores): 1300
+World-wide Collection (in crores): 1800
+Awards:
+  Best Sound (2024) - Hans Zimmer
+  Best Cinematography (2024) - Greig Fraser
+  Best Supporting Actress (2024) - Zendaya
+-------------------------------------
+
+---------- MOVIE DETAILS ----------
+Name: Avengers: Endgame
+Release Date: 26-04-2019
+Cast: Robert Downey Jr., Chris Evans, Scarlett Johansson, Chris Hemsworth, 
+Producer: Kevin Feige
+Writer: Christopher Markus
+Soundtracks:
+  Portals
+  The Real Hero
+Production Company: Marvel Studios
+Budget (in crores): 2800
+World-wide Collection (in crores): 27980
+Awards:
+  Best Visual Effects (2020) - Dan DeLeeuw
+  Fan Favorite Movie (2020) - Entire Cast
+  Best Hero (2020) - Robert Downey Jr.
+-------------------------------------
+
+---------- MOVIE DETAILS ----------
+Name: Inception
+Release Date: 16-07-2010
+Cast: Leonardo DiCaprio, Tom Hardy, Joseph Gordon-Levitt, Ellen Page, 
+Producer: Emma Thomas
+Writer: Christopher Nolan
+Soundtracks:
+  Time
+  Dream Is Collapsing
+Production Company: Syncopy Inc.
+Budget (in crores): 1100
+World-wide Collection (in crores): 6000
+Awards:
+  Best Cinematography (2011) - Wally Pfister
+  Best Sound Mixing (2011) - Richard King
+  Best Actor (2011) - Leonardo DiCaprio
+-------------------------------------
